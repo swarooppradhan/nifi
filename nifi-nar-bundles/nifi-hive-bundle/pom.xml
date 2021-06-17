@@ -43,7 +43,7 @@
                 <!-- Explicitly force Netty to 3.7.1 due to CVE-2014-0193 -->
                 <groupId>io.netty</groupId>
                 <artifactId>netty</artifactId>
-                <version>3.7.1.Final</version>
+                <version>3.9.8.Final</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -51,8 +51,8 @@
     <properties>
         <hive11.version>1.1.1</hive11.version>
         <hive11.hadoop.version>2.6.2</hive11.hadoop.version>
-        <hive12.version>1.2.1</hive12.version>
-        <hive12.hadoop.version>2.6.2</hive12.hadoop.version>
+        <hive12.version>3.0.0</hive12.version>
+        <hive12.hadoop.version>3.0.0</hive12.hadoop.version>
         <hive3.version>3.1.2</hive3.version>
         <hive.version>${hive3.version}</hive.version>
     </properties>
