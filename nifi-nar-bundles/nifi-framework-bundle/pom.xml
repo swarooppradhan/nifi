@@ -139,7 +139,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-core</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -154,7 +154,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-authorization-providers</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -189,17 +189,17 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-file-authorizer</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-shell-authorizer</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-authorizer</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
