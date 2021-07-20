@@ -35,12 +35,12 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-service-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -50,7 +50,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hadoop-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
