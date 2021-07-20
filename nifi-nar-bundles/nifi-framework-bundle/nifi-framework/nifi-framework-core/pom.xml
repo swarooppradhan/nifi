@@ -46,17 +46,17 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-components</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-expression-language</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-repository-models</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -92,7 +92,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-site-to-site-client</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -143,12 +143,12 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-data-provenance-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-write-ahead-log</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -158,7 +158,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-flowfile-repo-serialization</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
