@@ -23,8 +23,8 @@
     <packaging>pom</packaging>
     <description>NiFi: Framework Bundle</description>
     <properties>
-        <spring.version>4.3.19.RELEASE</spring.version>
-        <spring.security.version>4.2.13.RELEASE</spring.security.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
+        <spring.security.version>5.2.9.RELEASE</spring.security.version>
     </properties>
     <modules>
         <module>nifi-framework</module>
@@ -48,12 +48,12 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-data-provenance-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-security-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -74,7 +74,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-web-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -89,7 +89,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -99,7 +99,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-cluster</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.15.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -139,7 +139,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-core</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -164,7 +164,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-administration</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -174,12 +174,12 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-web-optimistic-locking</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.15.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-web-security</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.15.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -199,7 +199,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-authorizer</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.14.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -229,12 +229,12 @@
             <dependency>
                 <groupId>org.glassfish.jersey.core</groupId>
                 <artifactId>jersey-client</artifactId>
-                <version>${jersey.version}</version>
+                <version>2.34</version>
             </dependency>
             <dependency>
                 <groupId>org.glassfish.jersey.media</groupId>
                 <artifactId>jersey-media-json-jackson</artifactId>
-                <version>${jersey.version}</version>
+                <version>2.34</version>
                 <exclusions>
                     <exclusion>
                         <groupId>com.fasterxml.jackson.module</groupId>
@@ -258,12 +258,12 @@
             <dependency>
                 <groupId>org.glassfish.jersey.media</groupId>
                 <artifactId>jersey-media-multipart</artifactId>
-                <version>${jersey.version}</version>
+                <version>2.34</version>
             </dependency>
             <dependency>
                 <groupId>org.glassfish.jersey.ext</groupId>
                 <artifactId>jersey-spring4</artifactId>
-                <version>${jersey.version}</version>
+                <version>2.34</version>
             </dependency>
             <dependency>
                 <groupId>org.glassfish.jersey.core</groupId>
@@ -335,7 +335,7 @@
             <dependency>
                 <groupId>com.nimbusds</groupId>
                 <artifactId>oauth2-oidc-sdk</artifactId>
-                <version>6.16.2</version>
+                <version>9.4.1</version>
             </dependency>
             <dependency>
                 <groupId>net.minidev</groupId>
