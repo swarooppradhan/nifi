@@ -20,13 +20,13 @@
     <properties>
         <maven.javadoc.skip>true</maven.javadoc.skip>
         <source.skip>true</source.skip>
-        <avro.version>1.8.1</avro.version>
+        <avro.version>1.11.0</avro.version>
     </properties>
     <dependencies>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-services-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.14.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
