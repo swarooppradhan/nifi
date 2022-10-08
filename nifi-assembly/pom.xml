@@ -114,7 +114,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-bootstrap</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -135,7 +135,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -171,13 +171,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-datadog-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -195,7 +195,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-stateless-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -206,7 +206,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hadoop-libraries-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -248,7 +248,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-html-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -296,7 +296,7 @@ language governing permissions and limitations under the License. -->
 	<dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-mongodb-client-service-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -308,7 +308,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-mongodb-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -380,19 +380,19 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-influxdb-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-network-processors-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-avro-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -410,7 +410,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hbase-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -434,13 +434,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-oauth2-provider-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-azure-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -464,25 +464,25 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-elasticsearch-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-elasticsearch-client-service-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-elasticsearch-client-service-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-elasticsearch-restapi-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -536,7 +536,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cassandra-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -572,7 +572,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-record-serialization-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -602,7 +602,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-smb-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -644,7 +644,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-gcp-services-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -656,13 +656,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cdc-mysql-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-parquet-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -674,13 +674,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-redis-service-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-redis-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -722,7 +722,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-jolt-record-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -1074,7 +1074,7 @@ language governing permissions and limitations under the License. -->
                                 <script>sed -i s/^run\.as=$/run\.as=${nifi.run.as}/ $RPM_BUILD_ROOT/opt/nifi/nifi-${project.version}/conf/bootstrap.conf</script>
                             </installScriptlet>
                             <preinstallScriptlet>
-                                <script>/usr/bin/getent group nifi &gt;/dev/null || /usr/sbin/groupadd -r nifi; /usr/bin/getent passwd nifi &gt;/dev/null || /usr/sbin/useradd -r -g nifi -d /opt/nifi -s /sbin/nologin -c "NiFi System User" nifi</script>
+                                <script>/usr/bin/getent group nifi >/dev/null || /usr/sbin/groupadd -r nifi; /usr/bin/getent passwd nifi >/dev/null || /usr/sbin/useradd -r -g nifi -d /opt/nifi -s /sbin/nologin -c "NiFi System User" nifi</script>
                             </preinstallScriptlet>
                         </configuration>
                         <executions>
