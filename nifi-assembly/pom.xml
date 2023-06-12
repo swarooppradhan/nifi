@@ -114,7 +114,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-bootstrap</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -135,7 +135,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -177,7 +177,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -254,7 +254,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-lookup-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -350,13 +350,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-service-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -440,7 +440,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-azure-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -518,13 +518,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-jms-processors-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cassandra-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -560,7 +560,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hive-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -638,7 +638,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-gcp-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.22.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
