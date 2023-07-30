@@ -177,7 +177,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -284,13 +284,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-dbcp-service-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hadoop-dbcp-service-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
 	<dependency>
@@ -428,7 +428,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hbase_2-client-service-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -518,7 +518,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-jms-processors-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -572,7 +572,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-record-serialization-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -656,7 +656,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-cdc-mysql-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.23.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
