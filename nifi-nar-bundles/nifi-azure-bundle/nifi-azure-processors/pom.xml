@@ -20,7 +20,7 @@
     <artifactId>nifi-azure-processors</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <azure-eventhubs.version>3.2.1</azure-eventhubs.version>
+        <azure-eventhubs.version>3.2.3</azure-eventhubs.version>
         <azure-eventhubs-eph.version>3.2.1</azure-eventhubs-eph.version>
     </properties>
     <dependencies>
@@ -70,7 +70,7 @@
         <dependency>
             <groupId>com.azure</groupId>
             <artifactId>azure-identity</artifactId>
-            <version>1.0.6</version>
+            <version>1.2.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.azure</groupId>
