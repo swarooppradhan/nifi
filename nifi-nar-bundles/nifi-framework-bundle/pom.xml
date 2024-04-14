@@ -23,7 +23,7 @@
     <packaging>pom</packaging>
     <description>NiFi: Framework Bundle</description>
     <properties>
-        <spring.version>4.3.19.RELEASE</spring.version>
+        <spring.version>5.3.34</spring.version>
         <spring.security.version>4.2.13.RELEASE</spring.security.version>
     </properties>
     <modules>
@@ -48,12 +48,12 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-data-provenance-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.15.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-security-utils</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.19.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -139,7 +139,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-framework-core</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.19.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
@@ -179,7 +179,7 @@
             <dependency>
                 <groupId>org.apache.nifi</groupId>
                 <artifactId>nifi-web-security</artifactId>
-                <version>1.14.0-SNAPSHOT</version>
+                <version>1.19.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
