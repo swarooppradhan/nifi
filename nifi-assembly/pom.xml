@@ -135,7 +135,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -177,7 +177,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-standard-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -206,7 +206,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-hadoop-libraries-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -254,7 +254,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-lookup-services-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -272,7 +272,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-ldap-iaa-providers-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -314,13 +314,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-solr-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-social-media-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -350,13 +350,13 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-aws-service-api-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -440,7 +440,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-azure-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -452,7 +452,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-scripting-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
@@ -638,7 +638,7 @@ language governing permissions and limitations under the License. -->
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-gcp-nar</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.26.0</version>
             <type>nar</type>
         </dependency>
         <dependency>
