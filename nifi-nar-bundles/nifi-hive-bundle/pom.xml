@@ -54,7 +54,7 @@
         <hive12.version>1.2.1</hive12.version>
         <hive12.hadoop.version>2.6.2</hive12.hadoop.version>
         <hive3.version>3.1.2</hive3.version>
-        <hive.version>${hive3.version}</hive.version>
+        <hive.version>4.0.0</hive.version>
     </properties>
 
     <build>
