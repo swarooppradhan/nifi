@@ -39,7 +39,7 @@
     "url-search-params": "0.6.1",
     "jsonlint": "1.6.2",
     "qtip2": "3.0.3",
-    "slickgrid": "2.4.27"
+    "slickgrid": "3.0.0"
   },
   "repository": {
     "type": "git",
