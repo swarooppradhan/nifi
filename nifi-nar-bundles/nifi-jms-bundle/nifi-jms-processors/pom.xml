@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jms</artifactId>
-            <version>4.3.19.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
         <dependency>
             <groupId>commons-logging</groupId>
