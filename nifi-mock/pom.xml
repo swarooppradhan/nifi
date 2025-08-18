@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-framework-core-api</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.nifi</groupId>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.apache.nifi</groupId>
             <artifactId>nifi-data-provenance-utils</artifactId>
-            <version>1.14.0-SNAPSHOT</version>
+            <version>1.15.0</version>
         </dependency>
         <dependency>
             <!-- Dependency marked as compile, not test, because we have assertion
